@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "./state-component";
+import Profile from "./components/Profile";
 
 function App() {
   return (
